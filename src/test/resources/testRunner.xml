@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="JPetStore Automation Suite">
+    <parameter name="owner" value="Basant Elsayed" />
+    <test name="JPetStore Tests">
+        <packages>
+            <package name="Tests"/>
+        </packages>
+    </test>
+</suite>

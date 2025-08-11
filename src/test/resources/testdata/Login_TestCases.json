@@ -1,0 +1,47 @@
+[
+  {
+    "username": "j2ee",
+    "Password": "j2ee",
+    "testCaseType": "Valid_Credentials"
+  },
+  {
+    "username": "john",
+    "Password": "j2ee",
+    "testCaseType": "UpperCase_Credentials"
+  }
+  ,
+  {
+    "username": "john",
+    "Password": "j2ee",
+    "testCaseType": "inValid_Username"
+  }
+  ,
+  {
+    "username": "john",
+    "Password": "j2ee",
+    "testCaseType": "inValid_Password"
+  }
+  ,
+  {
+    "username": "john",
+    "Password": "j2ee",
+    "testCaseType": "Blank_Username"
+  }
+  ,
+  {
+    "username": "john",
+    "Password": "j2ee",
+    "testCaseType": "Blank_Password"
+  },
+  {
+    "username": "john",
+    "Password": "j2ee",
+    "testCaseType": "Blank_Credentials"
+  }
+  ,
+  {
+    "username": "john",
+    "Password": "j2ee",
+    "testCaseType": "SQL_Injection"
+  }
+]
